@@ -1,0 +1,7 @@
+/usr/sbin/iscsid
+/usr/sbin/iscsistart
+/usr/bin/iscsiadm
+/usr/lib/libiscsi.so*
+/usr/lib/libiscsi_tcp.so*
+/etc/iscsi/initiatorname.iscsi
+/etc/iscsi/*
